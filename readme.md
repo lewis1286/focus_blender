@@ -1,5 +1,7 @@
 # Focus Blender
 
+[image](./resources/demo.jpg)
+
 For macro photography.  Take a bunch of images of the same small object, only
 varying the focus area.  Take enough so that all parts of the subject are in
 focus in at least one image.
