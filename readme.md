@@ -24,4 +24,16 @@ This is done by roughly the following steps:
 4.  Take a linear combination of images multiplied by the weight matrices as
     the output.
 
+## Usage:
+
+Edit the path at the bottom of `focus_blender.py` to path of the images to
+merge
+
+```bash
+virtualenv -p python3 venv
+source venv/bin/activate
+pip install -r requirements.txt
+python focus_blender.py
+```
+There will now be a merged image in the directory of the input images.
 
